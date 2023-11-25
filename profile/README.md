@@ -1,6 +1,4 @@
-## Hi there 👋 We are the SuperBangBang
-
-<!--
+# Hi there 👋 We are the SuperBangBang
 
 **Here are some ideas to get you started:**
 
@@ -8,5 +6,4 @@
 🌈 Contribution guidelines - Any issues about our repository are welcome and will be answered as soon as we see them.
 👩‍💻 Useful resources - The Organization has always been open to repository, and not all of them are open source.
 🍿 Fun facts - Guess what do our team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🧙 Remember, you can do mighty things with the power of [Markdown]
