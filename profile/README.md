@@ -1,5 +1,7 @@
 # Hi there 👋 We are the SuperBangBang
 
+![Panel](https://github.com/TheSuperBangBang/.github/blob/main/profile/panel.png)
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ **A short introduction** - This is a private organization with many people working together for a long time.
